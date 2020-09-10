@@ -1,4 +1,4 @@
-# git-learning-repo
+# LINKEDLIST
 this is part of git learning
 LINKEDLIST
 
